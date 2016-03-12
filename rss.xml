@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CKO Seattle]]></title>
         <description><![CDATA[CKO Seattle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ckoseattle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 19:26:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 19:31:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ckoseattle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a2a2bfe-7370-4f6f-8677-f8436d63f300.jpg">]]></description>
+            <link>https://thegrid.ai/ckoseattle/meet-sid-carden-a-cko-seattle-member-since-january-2015-sid/index.html</link>
+            <guid isPermaLink="false">034c56df-fc8c-40b6-8034-02c010fd3389</guid>
+            <pubDate>Sat, 12 Mar 2016 19:30:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Meet Sydney Shub a full time collage student, a bartender/server (30-hrs per week), a CKO badass, and a recent graduate of the 21-day habit hack.</p>]]></description>
-            <link>undefinedmeet-sydney-shub-a-full-time-collage-student-a-bartenderse/index.html</link>
+            <link>https://thegrid.ai/ckoseattle/meet-sydney-shub-a-full-time-collage-student-a-bartenderse/index.html</link>
             <guid isPermaLink="false">c6dd94e3-5872-44d6-bf8c-5093837bf3b7</guid>
             <pubDate>Sat, 12 Mar 2016 19:25:42 GMT</pubDate>
         </item>
