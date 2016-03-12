@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Meet Sid Carden a CKO Seattle member since January 2015. Sid is a teacher, a mom, a regular member in the monthly “Get Hot Club”, and one badass kickboxer! Since starting her CKO journey Sid has had a lot of success, from improved her posture, obtaining a stronger core, building tone muscles and gaining self-confidence.'
-datePublished: '2016-03-12T19:30:39.953Z'
-dateModified: '2016-03-12T19:30:23.078Z'
+datePublished: '2016-03-12T20:15:34.011Z'
+dateModified: '2016-03-12T19:44:40.448Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-12-meet-sid-carden-a-cko-seattle-member-since-january-2015-sid.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-meet-sid-carden-a-cko-seattle-member-since-january-2015-sid.md
-published: true
 url: meet-sid-carden-a-cko-seattle-member-since-january-2015-sid/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60242461-8bf6-4db9-9642-c88c69090e24.jpg)
+
 Meet Sid Carden a CKO Seattle member since January 2015\. Sid is a teacher, a mom, a regular member in the monthly "Get Hot Club", and one badass kickboxer! Since starting her CKO journey Sid has had a lot of success, from improved her posture, obtaining a stronger core, building tone muscles and gaining self-confidence.
 
 To learn more about Sid, read the interview below.
