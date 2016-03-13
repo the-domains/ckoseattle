@@ -6,25 +6,30 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Meet Sydney Shub a full time collage student, a bartender/server (30-hrs per week), a CKO badass, and a recent graduate of the\_21-day habit hack."
-datePublished: '2016-03-12T19:25:42.107Z'
-dateModified: '2016-03-12T19:25:18.122Z'
-title: ''
+datePublished: '2016-03-13T00:56:50.549Z'
+dateModified: '2016-03-12T23:30:28.949Z'
+title: "CKO Transformation (Sydney\_Shub)"
 author: []
+sourcePath: _posts/2016-03-12-meet-sydney-shub-a-full-time-collage-student-a-bartenderse.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-meet-sydney-shub-a-full-time-collage-student-a-bartenderse.md
-published: true
 url: meet-sydney-shub-a-full-time-collage-student-a-bartenderse/index.html
 _type: Article
 
 ---
+# [CKO Transformation (Sydney Shub)][0]
+
+Posted on
+
+[October 2, 2015][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d61fdba-3c86-4bd4-82fd-1d1eefd55dad.jpg)
 
-Meet Sydney Shub a full time collage student, a bartender/server (30-hrs per week), a CKO badass, and a recent graduate of the [21-day habit hack][0].
+Meet Sydney Shub a full time collage student, a bartender/server (30-hrs per week), a CKO badass, and a recent graduate of the [21-day habit hack][2].
 
 In one year Sydney lost 40-lbs, **12 of those pounds came from transforming her diet during the 21-day habit hack**.
 
@@ -86,7 +91,9 @@ _I will be done with school (hopefully) and in a job that I love to do. I will b
 
 **Share any relevant information you'd like about yourself that other CKO/2.0 team members might not know about you (also a good place to talk about any success you have had since joining CKO)!**
 
-_Since I started my weight loss journey in June of 2014 I have lost 40 pounds. Obesity runs in my family and I am ready to stop that trend. I was always an active person, but when I broke my collar-bone while playing lacrosse I had to stop playing and that is when I started to gain weight. Joining [CKO][1] and doing training has been wonderful and I suggest that anyone who has not tried it to take a free trial class. I struggled a lot when I first started, but I kept going and eventually it got easier and I saw myself and my body changing a lot._
+_Since I started my weight loss journey in June of 2014 I have lost 40 pounds. Obesity runs in my family and I am ready to stop that trend. I was always an active person, but when I broke my collar-bone while playing lacrosse I had to stop playing and that is when I started to gain weight. Joining [CKO][3] and doing training has been wonderful and I suggest that anyone who has not tried it to take a free trial class. I struggled a lot when I first started, but I kept going and eventually it got easier and I saw myself and my body changing a lot._
 
-[0]: http://habithack.instapage.com/
-[1]: http://www.ckoseattle.com/
+[0]: http://healthylifeexperiment.com/2015/10/02/cko-transformation-sydney-shub/
+[1]: http://healthylifeexperiment.com/2015/10/02/cko-transformation-sydney-shub/ "8:44 am"
+[2]: http://habithack.instapage.com/
+[3]: http://www.ckoseattle.com/
