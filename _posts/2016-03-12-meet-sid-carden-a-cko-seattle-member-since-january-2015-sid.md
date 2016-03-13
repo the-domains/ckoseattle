@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Meet Sid Carden a CKO Seattle member since January 2015. Sid is a teacher, a mom, a regular member in the monthly “Get Hot Club”, and one badass kickboxer! Since starting her CKO journey Sid has had a lot of success, from improved her posture, obtaining a stronger core, building tone muscles and gaining self-confidence.'
-datePublished: '2016-03-12T20:15:34.011Z'
-dateModified: '2016-03-12T19:44:40.448Z'
-title: ''
+datePublished: '2016-03-13T00:56:17.175Z'
+dateModified: '2016-03-12T23:28:53.808Z'
+title: "Get to Know a CKO Member (Sid\_Carden)"
 author: []
 sourcePath: _posts/2016-03-12-meet-sid-carden-a-cko-seattle-member-since-january-2015-sid.md
 published: true
@@ -23,6 +23,10 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60242461-8bf6-4db9-9642-c88c69090e24.jpg)
+
+# Get to Know a CKO Member (Sid Carden)
+
+[September 4, 2015][0]  
 
 Meet Sid Carden a CKO Seattle member since January 2015\. Sid is a teacher, a mom, a regular member in the monthly "Get Hot Club", and one badass kickboxer! Since starting her CKO journey Sid has had a lot of success, from improved her posture, obtaining a stronger core, building tone muscles and gaining self-confidence.
 
@@ -52,11 +56,11 @@ _When I walked in the door I saw every shape and size. No one was self conscious
 
 _Family, friends,the instructors and myself._
 
-_My family works around my schedule to enable me to put in a workout. This is a huge[support][0]because I could easily use this as an excuse to not go. They see how much better I feel about myself and continue encouraging me. Also my kids are pretty impressed by my bad-ass self on the bag!_
+_My family works around my schedule to enable me to put in a workout. This is a huge[support][1]because I could easily use this as an excuse to not go. They see how much better I feel about myself and continue encouraging me. Also my kids are pretty impressed by my bad-ass self on the bag!_
 
-_Friends, especially [Jeanie][1] and Julie, coordinating when we can do workouts together, you know the, 'if you go, I'll go' mentality. Being accountable to more than yourself can get your butt off the couch._
+_Friends, especially [Jeanie][2] and Julie, coordinating when we can do workouts together, you know the, 'if you go, I'll go' mentality. Being accountable to more than yourself can get your butt off the couch._
 
-_The instructors are really motivating. They give you [goals][2] and acknowledge every step you are taking to improve yourself. They help you see that every step no matter how small makes a difference, whether you walked through the doors, improve by 1% or hit that bag a little harder it is making the change you want._
+_The instructors are really motivating. They give you [goals][3] and acknowledge every step you are taking to improve yourself. They help you see that every step no matter how small makes a difference, whether you walked through the doors, improve by 1% or hit that bag a little harder it is making the change you want._
 
 _Myself because I know it does take effort and I am acknowledging that I am putting myself forward to make the improvements that only I can make._
 
@@ -70,7 +74,7 @@ _That I am still punching and kicking and that I am eating less carbs!_
 
 **What is one book or documentary that you have read that changed your life?**
 
-_To say that any one book or documentary has changed my life would be an overstatement. I read '[The happiness project][3]' and really liked some of the suggestions to take control of your life. Al Gore's presentation on global warming, "[Inconvenient Truth][4]" is something everyone should watch and the documentary called '[Tapped][5]' about the bottled water industry._
+_To say that any one book or documentary has changed my life would be an overstatement. I read '[The happiness project][4]' and really liked some of the suggestions to take control of your life. Al Gore's presentation on global warming, "[Inconvenient Truth][5]" is something everyone should watch and the documentary called '[Tapped][6]' about the bottled water industry._
 
 **Where do you see yourself in 5-years?**
 
@@ -85,9 +89,10 @@ _I love going and love how people come up to each other congratulating each othe
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb3d86f0-6edf-408a-92a3-6de839a2ca66.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f05b6d2c-459b-423f-83d1-8b81f4c54ff7.jpg)
 
-[0]: http://healthylifeexperiment.com/2015/08/26/video-3-support-network-the-strong-body-strong-mind-video-series/
-[1]: http://healthylifeexperiment.com/2015/05/31/10-week-challenge-transformation-jeanne-lavery/
-[2]: http://healthylifeexperiment.com/2015/08/20/the-importance-of-goal-setting-the-strong-body-strong-mind-video-series/
-[3]: http://www.amazon.com/The-Happiness-Project-Aristotle-Generally/dp/006158326X
-[4]: https://en.wikipedia.org/wiki/An_Inconvenient_Truth
-[5]: http://www.tappedthemovie.com/
+[0]: http://healthylifeexperiment.com/2015/09/04/get-to-know-a-cko-member-sid-carden/ "1:15 pm"
+[1]: http://healthylifeexperiment.com/2015/08/26/video-3-support-network-the-strong-body-strong-mind-video-series/
+[2]: http://healthylifeexperiment.com/2015/05/31/10-week-challenge-transformation-jeanne-lavery/
+[3]: http://healthylifeexperiment.com/2015/08/20/the-importance-of-goal-setting-the-strong-body-strong-mind-video-series/
+[4]: http://www.amazon.com/The-Happiness-Project-Aristotle-Generally/dp/006158326X
+[5]: https://en.wikipedia.org/wiki/An_Inconvenient_Truth
+[6]: http://www.tappedthemovie.com/
