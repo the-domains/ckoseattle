@@ -5,28 +5,30 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Looking much stronger and much whiter, lol! (The lighting was bad in the after picture which is why he looks so pale).'
-datePublished: '2016-03-12T23:20:38.930Z'
-dateModified: '2016-03-12T23:13:43.667Z'
-title: ''
+description: "I remember Joshua’s first class, mostly because\_Jon Rogers\_will not let me forget\_how he was the one that “sealed the deal” with Joshua. Joshua walked through the doors out of shape and struggled to make it through the entire class. I could tell he enjoyed the class but I also saw a look on his face that said, “these people are crazy”,"
+datePublished: '2016-03-13T00:56:11.024Z'
+dateModified: '2016-03-13T00:56:08.586Z'
+title: "Member to Instructor — The Josh Cannaday\_Story"
 author: []
+sourcePath: _posts/2016-03-12-looking-much-stronger-and-much-whiter-lol-the-lighting-wa.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-looking-much-stronger-and-much-whiter-lol-the-lighting-wa.md
-published: true
 url: looking-much-stronger-and-much-whiter-lol-the-lighting-wa/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0efe02e-37e9-45af-9076-bcbf8f9b244a.jpg)
 
-Looking much stronger and much whiter, lol! (The lighting was bad in the after picture which is why he looks so pale).
+# [Member to Instructor --- The Josh Cannaday Story][0]
 
-I remember Joshua's first class, mostly because [Jon Rogers][0] will not let me forget how he was the one that "sealed the deal" with Joshua. Joshua walked through the doors out of shape and struggled to make it through the entire class. I could tell he enjoyed the class but I also saw a look on his face that said, "these people are crazy",
+[January 10, 2016][1]
+
+I remember Joshua's first class, mostly because [Jon Rogers][2] will not let me forget how he was the one that "sealed the deal" with Joshua. Joshua walked through the doors out of shape and struggled to make it through the entire class. I could tell he enjoyed the class but I also saw a look on his face that said, "these people are crazy",
 
 ;)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/845a8ef8-0965-4d43-95f8-65290f7cd525.jpg)
@@ -34,7 +36,7 @@ I remember Joshua's first class, mostly because [Jon Rogers][0] will not let me 
 So at this point his story has two possible outcomes:
 
 * **Outcome 1**-- Joshua acknowledges that the class was hard (and that we are in fact crazy), but realizes that if he can come consistently he will no doubt see life changing results.
-* **Outcome 2**-- the[intensity][1] of the class scares him and he thinks, "I need to get into shape before I come back".
+* **Outcome 2**-- the[intensity][3] of the class scares him and he thinks, "I need to get into shape before I come back".
 
 So after class, Jon and Joshua talked for what seemed like 15-mins, the whole time Joshua had the "this guy is crazy" look on his face, lol! But at the end of the conversation Joshua signed-up for 1-year, choosing outcome \#1 and has not looked back since!
 
@@ -42,7 +44,7 @@ Joshua, has been a CKO member for 8-months and has completely transformed both p
 
 (I don't say this often).  Joshua went from a guy that barely made it through class to being one of the strongest people in the entire gym. At the end of the 10-week challenge he did a 10-min plank, which is the longest plank I have ever seen, he also did a 12-min wall sit! And just the other day we went and ran stairs as a gym and I had a hard time keeping up with his pace!
 
-Mentally Joshua's attitude about health and fitness could not be better, he gets [IT][2]! He understands that the [habits][3]he creates in the gym will translate to all other aspects of his life. Joshua has barely scratched the surface of his potential and I see this "hunger" in him that says "watch out world, here I come".
+Mentally Joshua's attitude about health and fitness could not be better, he gets [IT][4]! He understands that the [habits][5]he creates in the gym will translate to all other aspects of his life. Joshua has barely scratched the surface of his potential and I see this "hunger" in him that says "watch out world, here I come".
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49acd49d-33a1-4b42-a4d8-9804929ac9e1.jpg)
 
 ;)
@@ -87,20 +89,22 @@ _I don't think I have ever reached my full potential in life, physically, profes
 
 **What's one thing you still find yourself struggling with? **
 
-_I struggle with coffee. I think it is just such a habit of the work environments I have always been a part of, that it is ritualistic.  I love the [Bulletproof coffee][4], and really enjoy it, but need to limit it to that.  I also struggle with variety of foods I make, and believe if I expand my cooking, I might discover more foods that power me up!  It is a journey and an experiment, the greatest one of all!_
+_I struggle with coffee. I think it is just such a habit of the work environments I have always been a part of, that it is ritualistic.  I love the [Bulletproof coffee][6], and really enjoy it, but need to limit it to that.  I also struggle with variety of foods I make, and believe if I expand my cooking, I might discover more foods that power me up!  It is a journey and an experiment, the greatest one of all!_
 
 **What can we do better to help you actualize your true potential? **
 
-_I think CKO as a gym does as much as any gym I have attended to help their members reach their full potential.  Keep the challenges, events, and social aspects coming, because I have really found some great gains personally and physically within them.  The 10 week challenge showed me what the benefits of circuit training, bootcamps, and personal training can do. If there was anything else CKO can do, other than the awesomeness that they already do, that could help me reach my full potential, it would be more class times and more times.  I know it is asking a lot, but the bootcamps really pushed my limits, and the variety of them got me out of my comfort zone. I know we all share so much information on nutrition, exercise and food, via the web and the Healthy Life Experiment, but what about a "book or movie of the month type club", where there is a [suggested read][5] or watch of the month. I would appreciate that for sure._
+_I think CKO as a gym does as much as any gym I have attended to help their members reach their full potential.  Keep the challenges, events, and social aspects coming, because I have really found some great gains personally and physically within them.  The 10 week challenge showed me what the benefits of circuit training, bootcamps, and personal training can do. If there was anything else CKO can do, other than the awesomeness that they already do, that could help me reach my full potential, it would be more class times and more times.  I know it is asking a lot, but the bootcamps really pushed my limits, and the variety of them got me out of my comfort zone. I know we all share so much information on nutrition, exercise and food, via the web and the Healthy Life Experiment, but what about a "book or movie of the month type club", where there is a [suggested read][7] or watch of the month. I would appreciate that for sure._
 
 **Share any relevant information you'd like about yourself that other CKO team members might not know about you (also a good place to talk about any success you have had since joining CKO)!  **
 
 _Playing music is a hobby, but for a while it was almost a living, and I did do a small tour in Europe shortly before joining CKO. It was a great life experience, and am glad i got to do it.  I love music, but the touring life, on the lower levels was not a good environment for your health.  I drank a lot, didn't get much sleep, ate poorly, and this resulted in an unhealthy lifestyle.  The band I was in broke up, and I was left fat, depressed, and with some bad habits.  Not too long after  that, I joined CKO.  The gym has really been a place where I have reclaimed my health and my life, literally.  The moment I came in the door the first time, and Jon Rogers gave me the tutorial, I felt the positive vibe that I used to feel when you start playing in a new music group, and the feeling after was like after playing a show. My endorphin's were alive, I was dripping sweat, I felt accomplished, and I was sharing a great experience with the people next to me.  I knew this was going to change the game.  Since joining CKO, not only have I gotten a greater grip on many aspects of my life, I find myself hungry to strive for my best in everything.I respect myself way more, and thus others as well.  Physically it is been a wild ride for sure. I have lost over 40 lbs, and went from a size 38 to a 33 or even 32 in pants size. I can do exercises I never thought I could, as well as holding a plank for 10 and a half minutes after the 10 week challenge.  I surprised myself with that one for sure. I could go on and on for sure, but I will just say thank you, and giant heartfelt thank you!!!! _
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b5c491f-92ea-47a4-a139-60ff61d5d109.jpg)
 
-[0]: http://healthylifeexperiment.com/2013/03/28/10-week-challenge-jon-bacon-rogers-numero-dos/ "10-Week Challenge Jon “Bacon” Rogers Numero Dos!"
-[1]: http://healthylifeexperiment.com/2014/04/29/do-simulated-workouts-give-real-life-results/ "Do Simulated Workouts Give Real Life Results?"
-[2]: http://healthylifeexperiment.com/2014/02/17/what-would-you-think-if-you-met-yourself/ "What would you think if you met yourself?"
-[3]: http://healthylifeexperiment.com/2014/01/27/you-are-defined-by-your-actions/ "What do your actions say about you?"
-[4]: http://healthylifeexperiment.com/2014/01/22/time-to-become-bulletproof/ "Time to Become Bulletproof"
-[5]: http://healthylifeexperiment.com/life-upgrades-being-the-total-package/ "Life Upgrades"
+[0]: http://healthylifeexperiment.com/2016/01/10/member-to-instructor-the-josh-cannaday-story/
+[1]: http://healthylifeexperiment.com/2016/01/10/member-to-instructor-the-josh-cannaday-story/ "1:29 pm"
+[2]: http://healthylifeexperiment.com/2013/03/28/10-week-challenge-jon-bacon-rogers-numero-dos/ "10-Week Challenge Jon “Bacon” Rogers Numero Dos!"
+[3]: http://healthylifeexperiment.com/2014/04/29/do-simulated-workouts-give-real-life-results/ "Do Simulated Workouts Give Real Life Results?"
+[4]: http://healthylifeexperiment.com/2014/02/17/what-would-you-think-if-you-met-yourself/ "What would you think if you met yourself?"
+[5]: http://healthylifeexperiment.com/2014/01/27/you-are-defined-by-your-actions/ "What do your actions say about you?"
+[6]: http://healthylifeexperiment.com/2014/01/22/time-to-become-bulletproof/ "Time to Become Bulletproof"
+[7]: http://healthylifeexperiment.com/life-upgrades-being-the-total-package/ "Life Upgrades"
