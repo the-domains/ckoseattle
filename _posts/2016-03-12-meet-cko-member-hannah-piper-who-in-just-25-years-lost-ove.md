@@ -6,23 +6,27 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Meet CKO member Hannah Piper who in just 2.5 years, lost over 60-lbs. In addition to the weight loss, Hannah has found a new love for fitness and is truly\_embracing her new healthy lifestyle. To learn more about Hannah’s transformation journey, read her testimonial."
-datePublished: '2016-03-12T23:20:39.139Z'
-dateModified: '2016-03-12T23:09:46.211Z'
-title: ''
+datePublished: '2016-03-13T00:56:09.535Z'
+dateModified: '2016-03-12T23:27:02.540Z'
+title: "How to lose 60-lbs in 2.5 years (The Hannah Piper\_story)"
 author: []
+sourcePath: _posts/2016-03-12-meet-cko-member-hannah-piper-who-in-just-25-years-lost-ove.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-meet-cko-member-hannah-piper-who-in-just-25-years-lost-ove.md
-published: true
 url: meet-cko-member-hannah-piper-who-in-just-25-years-lost-ove/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e67ec31-e3f5-4d2a-a0ec-ffbae7250c7e.jpg)
+
+# How to lose 60-lbs in 2.5 years (The Hannah Piper story)
+
+[February 1, 2016][0]  
 
 Meet CKO member Hannah Piper who in just 2.5 years, lost over 60-lbs. In addition to the weight loss, Hannah has found a new love for fitness and is truly embracing her new healthy lifestyle. To learn more about Hannah's transformation journey, read her testimonial.
 
@@ -34,15 +38,15 @@ _I had been overweight since I was about 13 years old. All through high school a
 
 Putting in work at CKO Seattle
 
-_I moved to Seattle after graduating college to start a job in the aerospace industry. I had always been interested in boxing, and thought that I would check out some local places that offered classes. At this point, I had already started walking daily and trying to eat a little bit healthier (though, admittedly, I still didn't really know what "healthy" was; instead of eating better... I was just eating less). I found[CKO][0]online, and was extremely intimidated. I would click on the website every few days, and try to convince myself not to be scared and to just try it. It took me probably a month to finally bite the bullet and sign up for a trial class. Going in for my tutorial prior to class, I was extremely nervous. I met[Garett][1]and he went through the basics with me and a few other newbies. Garett's face when I tried to roundhouse kick for the first time is something I'll never forget. He assured me, however, that I would get better in time (and I have!)._
+_I moved to Seattle after graduating college to start a job in the aerospace industry. I had always been interested in boxing, and thought that I would check out some local places that offered classes. At this point, I had already started walking daily and trying to eat a little bit healthier (though, admittedly, I still didn't really know what "healthy" was; instead of eating better... I was just eating less). I found[CKO][1]online, and was extremely intimidated. I would click on the website every few days, and try to convince myself not to be scared and to just try it. It took me probably a month to finally bite the bullet and sign up for a trial class. Going in for my tutorial prior to class, I was extremely nervous. I met[Garett][2]and he went through the basics with me and a few other newbies. Garett's face when I tried to roundhouse kick for the first time is something I'll never forget. He assured me, however, that I would get better in time (and I have!)._
 
 _:)_
 
-_I was exhausted by just the warm-up. I left class that day and immediately called my mom to tell her that it was the hardest workout that I had ever done in my life. But... it was fun. It was something I could see myself doing without getting[bored][2]. So, I went back. I signed up for a membership that night and have never looked back. I can very confidently say that taking that trial class was one of the best decisions I've ever made. It set into motion a million other micro-choices that have made me a healthier, happier, and more-fulfilled person._
+_I was exhausted by just the warm-up. I left class that day and immediately called my mom to tell her that it was the hardest workout that I had ever done in my life. But... it was fun. It was something I could see myself doing without getting[bored][3]. So, I went back. I signed up for a membership that night and have never looked back. I can very confidently say that taking that trial class was one of the best decisions I've ever made. It set into motion a million other micro-choices that have made me a healthier, happier, and more-fulfilled person._
 
 Hannah (back row, 2nd from left side) Spring 2014 10-week challenge
 
-_I continued taking classes, dabbled in some personal training, and eventually signed up for the CKO "10-Week Challenge." The[10-Week Challenge][3]absolutely changed my life. I learned everything that I had somehow previously missed about nutrition. I learned to read labels, to really be mindful about my food choices, and to question the fad-diet industry that runs rampant in the global discussion about nutrition. In 10 weeks, I lost 17 pounds and gained so much knowledge. In the 2.5 years that I have been with CKO, I have gone from 225 pounds to 165\.**I never thought it was possible, but it turns out that hard work and consistency really do pay off.**_
+_I continued taking classes, dabbled in some personal training, and eventually signed up for the CKO "10-Week Challenge." The[10-Week Challenge][4]absolutely changed my life. I learned everything that I had somehow previously missed about nutrition. I learned to read labels, to really be mindful about my food choices, and to question the fad-diet industry that runs rampant in the global discussion about nutrition. In 10 weeks, I lost 17 pounds and gained so much knowledge. In the 2.5 years that I have been with CKO, I have gone from 225 pounds to 165\.**I never thought it was possible, but it turns out that hard work and consistency really do pay off.**_
 
 Hannah's progress after the 2014, 10-week challenge
 
@@ -57,7 +61,8 @@ Congratulations Hannah, your transformation journey has been amazing and inspiri
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de2ac2cc-11ed-4bb6-b6ef-cb2d7e44b297.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90e72fa7-c302-45ab-8a8d-156a0aec623b.jpg)
 
-[0]: http://www.ckoseattle.com/
-[1]: http://healthylifeexperiment.com/about/
-[2]: http://healthylifeexperiment.com/2014/05/11/chase-excitement-or-settle-for-boredom/
-[3]: http://healthylifeexperiment.com/2015/08/30/what-is-the-10-week-challenge/
+[0]: http://healthylifeexperiment.com/2016/02/01/how-to-lose-60-lbs-in-2-5-years-the-hannah-piper-story/ "2:17 pm"
+[1]: http://www.ckoseattle.com/
+[2]: http://healthylifeexperiment.com/about/
+[3]: http://healthylifeexperiment.com/2014/05/11/chase-excitement-or-settle-for-boredom/
+[4]: http://healthylifeexperiment.com/2015/08/30/what-is-the-10-week-challenge/
